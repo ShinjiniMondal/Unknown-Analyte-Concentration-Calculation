@@ -1,7 +1,6 @@
 # Importing the required packages.
 
 import sys
-sys.path.append(r"C:\Users\SHINJINI MONDAL")
 import pyUVProbe as pyuv
 import numpy as np
 import matplotlib.pyplot as plt
